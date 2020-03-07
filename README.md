@@ -95,4 +95,4 @@ La que hará una nueva versión e insersión del tag en github
 
       y le damos deploy y lo hizo correctamente, en el siguiente link.
 
-      https://hardcore-mccarthy-efc0bf.netlify.com/
+      https://thirsty-davinci-73ab4a.netlify.com/
