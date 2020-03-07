@@ -29,7 +29,7 @@ Arrancamos el restaurante, cliente y repartidor :
  con esto esperamos que el repartidor acepte el envio y luego enviará la respuestas al ESB y concluye con un mensaje al cliente
  que su pedido.
  
- VIDEO: https://youtu.be/vIZweTPaXEc
+ VIDEO: https://youtu.be/vIZweTPaX
  
  :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
  
