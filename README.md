@@ -87,7 +87,7 @@ La que hará una nueva versión e insersión del tag en github
     "start": "node prueba.js",
     "build": "netlify-lambda build express"
 
-    Se modificaron los siguientes archivos para poder realizar la compilación por medio de "netlify-lambda", el cual crea una carpeta de nombre "functions" y adentro hace un compilado de nuestra clase "Servidor".
+    Se modificaron los siguientes archivos para poder realizar la compilación por medio de "netlify-lambda", el cual crea una carpeta de nombre "public" y adentro hace un compilado de nuestra clase "Servidor".
 
     ya con esto debemos de ingresar a netlify:
       Buil command : npm run build
